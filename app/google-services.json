@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "925068376300",
+    "firebase_url": "https://msp-dandelionrace.firebaseio.com",
+    "project_id": "msp-dandelionrace",
+    "storage_bucket": "msp-dandelionrace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925068376300:android:d2e9fc9ea0187697",
+        "android_client_info": {
+          "package_name": "com.example.msp_dandelionrace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925068376300-q22k2ko4f10orcj39t1vanaqnlglmtlu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.msp_dandelionrace",
+            "certificate_hash": "8a0822973766b07dd95d05e3377e6fad7ac4a5aa"
+          }
+        },
+        {
+          "client_id": "925068376300-3qoq1pppfv6g8sc3k847ctsbukdir61u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUaf1Izwfa5Dhrb9JAROkGHQRublf56gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925068376300-3qoq1pppfv6g8sc3k847ctsbukdir61u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
